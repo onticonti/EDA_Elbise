@@ -1,1 +1,1 @@
-# EDA_Elbise
+# EDA_Elbise dosya silindiğinde dolayı yeniden yükledim
